@@ -7,11 +7,16 @@
 - Simple analogy:  
 - Problem it solves:  
 
+## 🔗 Related Topics
+
+- [[]]
+
 ## 🛠 Commands / Syntax
 ```bash
 # Command example
 command --option value
 ```
+
 ## List of tasks / Execution
 -
 -
