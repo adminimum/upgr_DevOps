@@ -11,7 +11,7 @@ spec:
     path: Kubernetes/tasks/Argo_CD/manifests
   destination:
     server: https://kubernetes.default.svc
-    namespace: demo-app
+    namespace: default
   syncPolicy:
     automated:
       prune: true
