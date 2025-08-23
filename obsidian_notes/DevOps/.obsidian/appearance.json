@@ -1,6 +1,8 @@
 {
   "enabledCssSnippets": [
-    "mouse",
-    "levels"
-  ]
+    "main",
+    "main-m",
+    "head"
+  ],
+  "cssTheme": "Obsidian gruvbox"
 }

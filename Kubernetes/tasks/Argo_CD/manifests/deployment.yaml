@@ -1,0 +1,45 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: demo-web
+  namespace: demo-web
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: demo-web
+  template:
+    metadata:
+      labels:
+        app: demo-web
+    spec:
+      containers:
+        - name: demo-web
+          image: nginx:alpine
+          ports:
+            - containerPort: 80
+          env:
+            - name: BG_COLOR
+              value: "lightblue"
+          volumeMounts:
+            - name: html
+              mountPath: /usr/share/nginx/html
+      volumes:
+        - name: html
+          configMap:
+            name: demo-web-html
+---
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: demo-web-html
+  namespace: demo-web
+data:
+  index.html: |
+    <html>
+      <head><title>Demo Web</title></head>
+      <body style="background-color: {{BG_COLOR}};">
+        <h1>Hello from ArgoCD!</h1>
+        <p>Change background by editing Deployment env var.</p>
+      </body>
+    </html>
