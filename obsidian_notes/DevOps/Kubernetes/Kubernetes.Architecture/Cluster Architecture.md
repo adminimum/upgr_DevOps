@@ -74,6 +74,9 @@ aws eks create-nodegroup \
 
 - [[CRI Container runtime interface]]
 - [[ETCD]]
+- [[Kube-Api Server]]
+- [[Kube-Controller-Manager]]
+- [[Kube-sheduler]]
 
 ## List of tasks / Execution
 

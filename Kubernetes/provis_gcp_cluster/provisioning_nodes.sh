@@ -2,7 +2,8 @@ sudo apt update && sudo apt upgrade -y
 sudo apt install -y curl apt-transport-https ca-certificates gnupg lsb-release software-properties-common
 
 
-sudo hostnamectl set-hostname k8s-master
+// sudo hostnamectl set-hostname k8s-worker-1
+// sudo hostnamectl set-hostname k8s-worker-2
 
 sudo swapoff -a
 sudo sed -i '/ swap / s/^/#/' /etc/fstab
@@ -56,4 +57,5 @@ containerd --version
 
 
 # Example   kubeadm init command
-sudo kubeadm join 10.240.0.8:6443 --token 677y1e.ye1mtncy00uxafpo --discovery-token-ca-cert-hash sha256:1e4b67abcb679416896dd40af3afdde379b18fd12fb75505fd844822df1eb4a2 
+kubeadm join 10.240.0.11:6443 --token dalk8k.v27z2vbubg65yyay \
+	--discovery-token-ca-cert-hash sha256:c2a603531a7efd7735b35d962ab75852bd6609ace83391e86df2e3e6cf3b445a

@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "032be2e6dad8a97f",
+        "id": "75942067c3be66c1",
         "type": "tabs",
         "children": [
           {
-            "id": "2a6163a132d7c673",
+            "id": "7d5e4a55d1e60dd2",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -165,12 +165,19 @@
       "bases:Create new base": false
     }
   },
-  "active": "2a6163a132d7c673",
+  "active": "cf88b754896e4ec9",
   "lastOpenFiles": [
-    "Kubernetes/Kubernetes.md",
-    "Kubernetes/Kubernetes.Architecture/ETCD.md",
-    "Kubernetes/CRI Container runtime interface.md",
+    "Kubernetes/Kubernetes.Attributes",
+    "Kubernetes/Kubernetes.Architecture/Kube-sheduler.md",
+    "images/scheduler.gif",
     "Kubernetes/Kubernetes.Architecture/Cluster Architecture.md",
+    "Kubernetes/Kubernetes.Architecture/Kube-Controller-Manager.md",
+    "Kubernetes/Kubernetes.Architecture/Kube-Api Server.md",
+    "images/controle-manager.jpg",
+    "images/api-server.png",
+    "Kubernetes/Kubernetes.Architecture/ETCD.md",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes/CRI Container runtime interface.md",
     "2025-08-22.md",
     "ETCD",
     "Kubernetes/Kubernetes.Architecture",

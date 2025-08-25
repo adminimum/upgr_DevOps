@@ -56,12 +56,15 @@ containerd --version
 
 
 sudo kubeadm init \
-  --apiserver-advertise-address=10.240.0.8 \
+  --apiserver-advertise-address=10.240.0.11 \
   --pod-network-cidr=192.168.0.0/16 \
   --service-cidr=10.96.0.0/12 \
   --kubernetes-version=1.32.0 \
-  --control-plane-endpoint=10.240.0.8
+  --control-plane-endpoint=10.240.0.11
 
 
 kubectl apply -f https://raw.githubusercontent.com/projectcalico/calico/v3.27.3/manifests/calico.yaml
 
+mkdir -p $HOME/.kube
+sudo cp -i /etc/kubernetes/admin.conf $HOME/.kube/config
+sudo chown $(id -u):$(id -g) $HOME/.kube/config

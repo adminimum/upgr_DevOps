@@ -19,22 +19,22 @@ gcloud compute firewall-rules create k8s-allow-external \
 
 gcloud compute instances create k8s-master \
   --zone=europe-west4-a \
-  --machine-type=e2-small \
+  --machine-type=e2-standard-2 \
   --subnet=k8s-subnet \
   --network=k8s-net \
   --image-family=ubuntu-2204-lts \
   --image-project=ubuntu-os-cloud \
-  --boot-disk-size=15GB \
+  --boot-disk-size=30GB \
   --boot-disk-type=pd-standard \
   --tags=k8s
 
 gcloud compute instances create k8s-worker-1 k8s-worker-2 \
   --zone=europe-west4-a \
-  --machine-type=e2-small \
+  --machine-type=e2-medium \
   --subnet=k8s-subnet \
   --network=k8s-net \
   --image-family=ubuntu-2204-lts \
   --image-project=ubuntu-os-cloud \
-  --boot-disk-size=15GB \
+  --boot-disk-size=20GB \
   --boot-disk-type=pd-standard \
   --tags=k8s
