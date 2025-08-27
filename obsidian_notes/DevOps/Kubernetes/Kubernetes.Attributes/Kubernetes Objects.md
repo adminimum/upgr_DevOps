@@ -50,6 +50,7 @@
 - [[ReplicaSet]]
 - [[Deployments]]
 - [[Services]]
+- [[Namespaces]]
 
 
 ## 🛠 Commands / Syntax

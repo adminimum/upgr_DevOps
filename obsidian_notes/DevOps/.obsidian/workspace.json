@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes.Attributes/Service.Types/NodePort Service.md",
+                "file": "Kubernetes/Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "NodePort Service"
+              "title": "Kubernetes"
+            }
+          },
+          {
+            "id": "42b0499b47e0b850",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Imperative and declarative.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Imperative and declarative"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,11 +184,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf56b0e92973dfbd",
+  "active": "42b0499b47e0b850",
   "lastOpenFiles": [
+    "images/imperdeclar.png",
+    "Kubernetes/Kubernetes.md",
+    "Imperative and declarative.md",
+    "Kubernetes/Kubernetes.Attributes/Service.Types/NodePort Service.md",
+    "Kubernetes/Kubernetes.Attributes/Namespaces.md",
+    "Kubernetes/Kubernetes.Attributes/Kubernetes Objects.md",
+    "images/namespaces.png",
     "Kubernetes/Kubernetes.Attributes/Service.Types/Load Balancer Service.md",
     "Kubernetes/Kubernetes.Attributes/Service.Types/ClusterIP Service.md",
-    "Kubernetes/Kubernetes.Attributes/Service.Types/NodePort Service.md",
     "Kubernetes/Kubernetes.Attributes/Deployments.md",
     "Kubernetes/Kubernetes.Attributes/Services.md",
     "Kubernetes/Kubernetes.Attributes/Service.Types",
@@ -184,12 +205,10 @@
     "Kubernetes/Kubernetes.Architecture/ETCD.md",
     "Kubernetes/Kubernetes.Attributes/Pod.md",
     "images/etcd.png",
-    "Kubernetes/Kubernetes.Attributes/Kubernetes Objects.md",
     "Kubernetes/Kubernetes.Architecture/Kube-Controller-Manager.md",
     "Kubernetes/Kubernetes.Architecture/Kube-sheduler.md",
     "Kubernetes/Kubernetes.Architecture/Kube-Api Server.md",
     "Kubernetes/Kubernetes.Architecture/Cluster Architecture.md",
-    "Kubernetes/Kubernetes.md",
     "Kubernetes/Kubernetes.Attributes/ReplicaSet.md",
     "deploy..md",
     "images/deploy.avif",
@@ -198,7 +217,6 @@
     "pod..md",
     "images/pod.svg",
     "images/design-Patterns.png",
-    "images/cheatsheet.webp",
     "Kubernetes/CRI Container runtime interface.md",
     "Kubernetes/Kubernetes.Architecture/kube-proxy.md",
     "Kubernetes/Kubernetes.Architecture/Kubelet.md",

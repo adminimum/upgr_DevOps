@@ -66,6 +66,7 @@
 
 - [[Cluster Architecture]]
 - [[Kubernetes Objects]]
+- [[Imperative and declarative]]
   
 
 ## 🔗 Related Topics
