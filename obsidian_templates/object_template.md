@@ -9,13 +9,17 @@
 - My thoughts:   
 
 ## 🔗 Related Topics
-
 - [[]]
 
 ## 🛠 Commands / Syntax
 ```bash
 # Command example
 command --option value
+```
+
+## 🗒️ YAML format example with explaining
+```YAML
+
 ```
 
 ## List of tasks / Execution

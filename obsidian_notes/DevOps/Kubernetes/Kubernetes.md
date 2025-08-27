@@ -65,7 +65,7 @@
 ## 📂 Subtopics
 
 - [[Cluster Architecture]]
-
+- [[Kubernetes Objects]]
   
 
 ## 🔗 Related Topics

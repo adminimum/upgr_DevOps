@@ -1,4 +1,4 @@
-
+![ETCD](etcd.png)
 ## 📌 Definition
 
 - What it is: **etcd** is a **distributed key-value store** that Kubernetes uses to keep all the cluster’s state and configuration data.

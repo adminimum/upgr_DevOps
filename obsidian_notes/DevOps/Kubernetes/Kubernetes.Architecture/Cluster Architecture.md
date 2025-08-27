@@ -77,6 +77,8 @@ aws eks create-nodegroup \
 - [[Kube-Api Server]]
 - [[Kube-Controller-Manager]]
 - [[Kube-sheduler]]
+- [[Kubelet]]
+- [[kube-proxy]]
 
 ## List of tasks / Execution
 
