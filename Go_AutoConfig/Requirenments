@@ -1,0 +1,12 @@
+Make me template for kubernetes deployment. But it should store all possible fields. I need all. 
+And they should meet once. 
+If filed can be used a multiple times (like for example label) . Put the comment nearby with this text "Multiple" 
+If filed requires string format input. Put the comment nearby with text "String"
+if filed requires number input. Put the comment nearby with the text "Number"
+if filed requires one option from multiple but predefined. Put comment like "Predefined {In, NotIn, Exists...}
+If field has multiple comments, write them like "Number,Multiple"
+Obviously Optional should have comment optional, mandatory should have "mandatory".
+If it's array, comment "Array"
+If it's map, comment "Map"
+If filed can be replaced by another field, no matter with different sub options or with the same, Just make the comment "Replaceable{FieldName,FiledName,...}
+If field exclude another filed, or option, add comment Exclude{full yaml path what excluded. Example:spec.stratagy.rollingupdate.maxsurge}

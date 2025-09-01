@@ -4,81 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "63ba9b7430c90fb0",
+        "id": "95db82d058d83c35",
         "type": "tabs",
         "children": [
           {
-            "id": "cf56b0e92973dfbd",
+            "id": "1db747dc201b49a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes.md",
+                "file": "Kubernetes/Scheduling/Priority Classes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
+              "title": "Priority Classes"
             }
           },
           {
-            "id": "42b0499b47e0b850",
+            "id": "a518e405850ccd37",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes.md",
+                "file": "Kubernetes/Scheduling/Scheduler Profiles.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kubernetes"
-            }
-          },
-          {
-            "id": "cd646925afe57e3b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scheduling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scheduling"
-            }
-          },
-          {
-            "id": "2c7fe764c2e712b2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Scheduling/Scheduling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Scheduling"
-            }
-          },
-          {
-            "id": "6430a7b3053ebeb9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Scheduling/Manual Scheduling.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Manual Scheduling"
+              "title": "Scheduler Profiles"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -226,11 +184,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "6430a7b3053ebeb9",
+  "active": "a518e405850ccd37",
   "lastOpenFiles": [
-    "Kubernetes/Scheduling/Manual Scheduling.md",
     "Kubernetes/Scheduling/Scheduling.md",
+    "Kubernetes/Scheduling/Scheduler Profiles.md",
+    "Kubernetes/Scheduling/Priority Classes.md",
+    "Kubernetes/Scheduling/Multiple Schedulers.md",
+    "Kubernetes/Scheduling/Manual Scheduling.md",
+    "Kubernetes/Kubernetes.Attributes/Static Pod.md",
+    "images/staticpod.png",
+    "Kubernetes/Kubernetes.Attributes/Kubernetes Objects.md",
+    "Kubernetes/Scheduling/Resource Limits.md",
+    "Kubernetes/Kubernetes.Attributes/DaemonSet.md",
+    "images/daemonset.png",
+    "Kubernetes/Kubernetes.Attributes/Deployments.md",
+    "Kubernetes/Scheduling/Taints and Tolerations.md",
+    "Kubernetes/Scheduling/Node Selectors.md",
+    "Kubernetes/Scheduling/Node Affinity.md",
+    "Kubernetes/Scheduling/Labels & Selectors.md",
+    "Kubernetes/Kubernetes.Architecture/kube-proxy.md",
     "Kubernetes/Kubernetes.md",
+    "Kubernetes/Kubernetes.Attributes/Namespaces.md",
     "images/scheduler.png",
     "Kubernetes/Imperative and declarative.md",
     "Kubernetes/PDF/Kubernetes+-CKA-+0200+-+Scheduling.pdf",
@@ -242,12 +216,9 @@
     "Kubernetes/Scheduling",
     "images/imperdeclar.png",
     "Kubernetes/Kubernetes.Attributes/Service.Types/NodePort Service.md",
-    "Kubernetes/Kubernetes.Attributes/Namespaces.md",
-    "Kubernetes/Kubernetes.Attributes/Kubernetes Objects.md",
     "images/namespaces.png",
     "Kubernetes/Kubernetes.Attributes/Service.Types/Load Balancer Service.md",
     "Kubernetes/Kubernetes.Attributes/Service.Types/ClusterIP Service.md",
-    "Kubernetes/Kubernetes.Attributes/Deployments.md",
     "Kubernetes/Kubernetes.Attributes/Services.md",
     "Kubernetes/Kubernetes.Attributes/Service.Types",
     "images/nodeport.png",
@@ -259,19 +230,7 @@
     "images/etcd.png",
     "Kubernetes/Kubernetes.Architecture/Kube-Controller-Manager.md",
     "Kubernetes/Kubernetes.Architecture/Kube-sheduler.md",
-    "Kubernetes/Kubernetes.Architecture/Kube-Api Server.md",
-    "Kubernetes/Kubernetes.Architecture/Cluster Architecture.md",
-    "Kubernetes/Kubernetes.Attributes/ReplicaSet.md",
-    "deploy..md",
-    "images/deploy.avif",
-    "replicaset..md",
-    "images/replicaset.webp",
-    "pod..md",
-    "Kubernetes/CRI Container runtime interface.md",
-    "Kubernetes/Kubernetes.Architecture/kube-proxy.md",
-    "Kubernetes/Kubernetes.Architecture/Kubelet.md",
     "Kubernetes/Kubernetes.Attributes",
-    "2025-08-22.md",
     "ETCD"
   ]
 }

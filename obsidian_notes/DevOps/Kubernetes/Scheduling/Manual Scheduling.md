@@ -18,7 +18,8 @@
     containers:
     - name: nginx
       image: nginx
-    nodeName: node1```
+    nodeName: node1
+    ```
 
 ## ✅ Advantages
 

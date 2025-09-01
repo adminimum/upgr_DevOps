@@ -51,6 +51,8 @@
 - [[Deployments]]
 - [[Services]]
 - [[Namespaces]]
+- [[DaemonSet]]
+- [[Static Pod]]
 
 
 ## 🛠 Commands / Syntax

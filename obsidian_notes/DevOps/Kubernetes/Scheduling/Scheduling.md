@@ -39,6 +39,14 @@ Scheduling in Kubernetes is the process of deciding **which node a Pod should r
 ## 📂 Subtopics
 
 - [[Manual Scheduling]]
+- [[Labels & Selectors]]
+- [[Taints and Tolerations]]
+- [[Node Selectors]]
+- [[Node Affinity]]
+- [[Resource Limits]]
+- [[Priority Classes]]
+- [[Multiple Schedulers]]
+- [[Scheduler Profiles]]
 
   
 
