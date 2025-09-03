@@ -68,6 +68,7 @@
 - [[Kubernetes Objects]]
 - [[Imperative and declarative]]
 - [[Scheduling]]
+- [[Monitoring and Logging]]
   
 
 ## 🔗 Related Topics

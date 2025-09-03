@@ -1,0 +1,246 @@
+{
+  "main": {
+    "id": "162d7d43107ffcc0",
+    "type": "split",
+    "children": [
+      {
+        "id": "2784cb512595e559",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9731ee186b08a69e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "English.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "English"
+            }
+          },
+          {
+            "id": "c0c20ee67a343396",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Vocabulary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocabulary"
+            }
+          },
+          {
+            "id": "a9700b9ceb6f4939",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Texts Remember/Texts Remember.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Texts Remember"
+            }
+          },
+          {
+            "id": "5d501333faae7e9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Vocabulary.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vocabulary"
+            }
+          },
+          {
+            "id": "a08862e9e20278aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/09.2025/01-07.09.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-07.09.2025"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53793fd225f94804",
+    "type": "split",
+    "children": [
+      {
+        "id": "3640317d65f08943",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9d82e52f688aff70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "5e3a60df652c378c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "cececa63a5144ddf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00f39b23a7979653",
+    "type": "split",
+    "children": [
+      {
+        "id": "448644f6ecb75bf3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52ff6f293de616e7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Vocabulary/09.2025/01-07.09.2025.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 01-07.09.2025"
+            }
+          },
+          {
+            "id": "d808ce2477aa4078",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Vocabulary/09.2025/01-07.09.2025.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 01-07.09.2025"
+            }
+          },
+          {
+            "id": "44634c19a8089cfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c169c572e5b36f66",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Vocabulary/09.2025/01-07.09.2025.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 01-07.09.2025"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "a08862e9e20278aa",
+  "lastOpenFiles": [
+    "images/mock.jpg",
+    "().md",
+    "Vocabulary/09.2025/01-07.09.2025.md",
+    "images/addiction.jpg",
+    "images/dizzy.webp",
+    "Vocabulary/Vocabulary.md",
+    "images/cocky.jpg",
+    "images/Confuse.jpeg",
+    "Vocabulary/09.2025",
+    "English.md",
+    "images/Curriculum-Roadmap-English.jpg",
+    "images",
+    "Grammar/Grammar.md",
+    "Texts Remember/Texts Remember.md"
+  ]
+}

@@ -4,39 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "95db82d058d83c35",
+        "id": "eb575d57203ce14d",
         "type": "tabs",
         "children": [
           {
-            "id": "1db747dc201b49a3",
+            "id": "e5bf40a7b01335d4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Scheduling/Priority Classes.md",
+                "file": "Kubernetes/Monitoring/Monitoring and Logging.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Priority Classes"
+              "title": "Monitoring and Logging"
             }
           },
           {
-            "id": "a518e405850ccd37",
+            "id": "8dedf12de8b53237",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Scheduling/Scheduler Profiles.md",
+                "file": "Kubernetes/Monitoring/Monitor Cluster Components.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Scheduler Profiles"
+              "title": "Monitor Cluster Components"
+            }
+          },
+          {
+            "id": "9cf3decdc4102dd4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Monitoring/Managing Application Logs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Managing Application Logs"
+            }
+          },
+          {
+            "id": "73f2a783e11933b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Applicaion Lifecycle Management/Application LifeCycle Management.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Application LifeCycle Management"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -184,13 +212,31 @@
       "bases:Create new base": false
     }
   },
-  "active": "a518e405850ccd37",
+  "active": "cf88b754896e4ec9",
   "lastOpenFiles": [
+    "images/ALM.png",
+    "Kubernetes/Monitoring/Managing Application Logs.md",
+    "Kubernetes/Applicaion Lifecycle Management/Application LifeCycle Management.md",
+    "Kubernetes/Applicaion Lifecycle Management",
+    "English/Books/Grammar in Use - Pre-intermediate ( PDFDrive ).pdf",
+    "English/Books",
+    "English/Vocabulary",
+    "English/Texts Remember",
+    "English/Grammar",
+    "English",
+    "Kubernetes/Monitoring/Monitoring and Logging.md",
+    "Kubernetes/Monitoring/Monitor Cluster Components.md",
     "Kubernetes/Scheduling/Scheduling.md",
-    "Kubernetes/Scheduling/Scheduler Profiles.md",
-    "Kubernetes/Scheduling/Priority Classes.md",
+    "Kubernetes/PDF/Kubernetes+-CKA-+0300+-+Logging-Monitoring.pdf",
     "Kubernetes/Scheduling/Multiple Schedulers.md",
+    "Kubernetes/Scheduling/Scheduler Profiles.md",
+    "Kubernetes/Scheduling/Node Affinity.md",
+    "Kubernetes/Scheduling/Node Selectors.md",
     "Kubernetes/Scheduling/Manual Scheduling.md",
+    "Kubernetes/Scheduling/Priority Classes.md",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes/Monitoring",
+    "Kubernetes/Scheduling/Admission Controllers.md",
     "Kubernetes/Kubernetes.Attributes/Static Pod.md",
     "images/staticpod.png",
     "Kubernetes/Kubernetes.Attributes/Kubernetes Objects.md",
@@ -199,38 +245,20 @@
     "images/daemonset.png",
     "Kubernetes/Kubernetes.Attributes/Deployments.md",
     "Kubernetes/Scheduling/Taints and Tolerations.md",
-    "Kubernetes/Scheduling/Node Selectors.md",
-    "Kubernetes/Scheduling/Node Affinity.md",
     "Kubernetes/Scheduling/Labels & Selectors.md",
     "Kubernetes/Kubernetes.Architecture/kube-proxy.md",
-    "Kubernetes/Kubernetes.md",
     "Kubernetes/Kubernetes.Attributes/Namespaces.md",
     "images/scheduler.png",
     "Kubernetes/Imperative and declarative.md",
     "Kubernetes/PDF/Kubernetes+-CKA-+0200+-+Scheduling.pdf",
-    "Kubernetes/PDF/Kubernetes+-CKA-+0100+-+Core+Concepts.pdf",
-    "Kubernetes/PDF/Networking.pdf",
-    "Kubernetes/PDF/Udemy+Kubernetes+taints-tolerations.pdf",
-    "Kubernetes/PDF/Static+Pods.pdf",
-    "Kubernetes/PDF",
-    "Kubernetes/Scheduling",
     "images/imperdeclar.png",
     "Kubernetes/Kubernetes.Attributes/Service.Types/NodePort Service.md",
     "images/namespaces.png",
     "Kubernetes/Kubernetes.Attributes/Service.Types/Load Balancer Service.md",
-    "Kubernetes/Kubernetes.Attributes/Service.Types/ClusterIP Service.md",
-    "Kubernetes/Kubernetes.Attributes/Services.md",
-    "Kubernetes/Kubernetes.Attributes/Service.Types",
     "images/nodeport.png",
     "images/ClusterIP-Service.png",
     "images/load_balancer.png",
     "images/services.gif",
-    "Kubernetes/Kubernetes.Architecture/ETCD.md",
-    "Kubernetes/Kubernetes.Attributes/Pod.md",
-    "images/etcd.png",
-    "Kubernetes/Kubernetes.Architecture/Kube-Controller-Manager.md",
-    "Kubernetes/Kubernetes.Architecture/Kube-sheduler.md",
-    "Kubernetes/Kubernetes.Attributes",
-    "ETCD"
+    "images/etcd.png"
   ]
 }
