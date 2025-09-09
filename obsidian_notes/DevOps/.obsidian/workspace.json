@@ -4,67 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "eb575d57203ce14d",
+        "id": "3db2d90e5890361b",
         "type": "tabs",
         "children": [
           {
-            "id": "e5bf40a7b01335d4",
+            "id": "0679f3f00b3a471e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Monitoring/Monitoring and Logging.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Monitoring and Logging"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "8dedf12de8b53237",
+            "id": "db3d919c64980b7b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Monitoring/Monitor Cluster Components.md",
+                "file": "Kubernetes/Cluster Maintenance/Cluster Maintenance.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Monitor Cluster Components"
-            }
-          },
-          {
-            "id": "9cf3decdc4102dd4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Monitoring/Managing Application Logs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Managing Application Logs"
-            }
-          },
-          {
-            "id": "73f2a783e11933b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Applicaion Lifecycle Management/Application LifeCycle Management.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Application LifeCycle Management"
+              "title": "Cluster Maintenance"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -212,11 +180,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf88b754896e4ec9",
+  "active": "db3d919c64980b7b",
   "lastOpenFiles": [
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes/Cluster Maintenance/Cluster Maintenance.md",
+    "Kubernetes/PDF/Kubernetes-CKA-0500-Cluster+Maintenance-v1.2.pdf",
+    "Kubernetes/Applicaion Lifecycle Management/Application LifeCycle Management.md",
+    "Kubernetes/Applicaion Lifecycle Management/In-place Resize of Pod.md",
+    "Kubernetes/Cluster Maintenance",
+    "Kubernetes/Applicaion Lifecycle Management/Rolling Updates And Rollbacks.md",
+    "Kubernetes/Applicaion Lifecycle Management/Autoscaling in Kubernetes.md",
+    "Kubernetes/Applicaion Lifecycle Management/Init Containers.md",
+    "Kubernetes/Applicaion Lifecycle Management/Commands and Arguments in Docker or Kubernetes.md",
+    "Kubernetes/Applicaion Lifecycle Management/Config Env Vars in Applications.md",
+    "Kubernetes/Applicaion Lifecycle Management/ConfigMaps in Kubernetes.md",
+    "Kubernetes/Applicaion Lifecycle Management/Secrets.md",
+    "Kubernetes/Applicaion Lifecycle Management/Secret Store CSI Driver.md",
+    "Kubernetes/Applicaion Lifecycle Management/Encrypting Secret data at Rest.md",
+    "Kubernetes/Scheduling/Admission Controllers.md",
+    "images/autoscaling.gif",
+    "images/1*a.gif",
+    "Kubernetes/Applicaion Lifecycle Management/Multi Container Pods.md",
+    "Kubernetes/Monitoring/Monitoring and Logging.md",
+    "images/rollback.jpg",
+    "Kubernetes/PDF/Kubernetes+-CKA-+0400+-+Application+Lifecycle+Management.pdf",
     "images/ALM.png",
     "Kubernetes/Monitoring/Managing Application Logs.md",
-    "Kubernetes/Applicaion Lifecycle Management/Application LifeCycle Management.md",
     "Kubernetes/Applicaion Lifecycle Management",
     "English/Books/Grammar in Use - Pre-intermediate ( PDFDrive ).pdf",
     "English/Books",
@@ -224,41 +213,20 @@
     "English/Texts Remember",
     "English/Grammar",
     "English",
-    "Kubernetes/Monitoring/Monitoring and Logging.md",
     "Kubernetes/Monitoring/Monitor Cluster Components.md",
     "Kubernetes/Scheduling/Scheduling.md",
-    "Kubernetes/PDF/Kubernetes+-CKA-+0300+-+Logging-Monitoring.pdf",
     "Kubernetes/Scheduling/Multiple Schedulers.md",
     "Kubernetes/Scheduling/Scheduler Profiles.md",
     "Kubernetes/Scheduling/Node Affinity.md",
     "Kubernetes/Scheduling/Node Selectors.md",
     "Kubernetes/Scheduling/Manual Scheduling.md",
     "Kubernetes/Scheduling/Priority Classes.md",
-    "Kubernetes/Kubernetes.md",
-    "Kubernetes/Monitoring",
-    "Kubernetes/Scheduling/Admission Controllers.md",
     "Kubernetes/Kubernetes.Attributes/Static Pod.md",
     "images/staticpod.png",
-    "Kubernetes/Kubernetes.Attributes/Kubernetes Objects.md",
-    "Kubernetes/Scheduling/Resource Limits.md",
-    "Kubernetes/Kubernetes.Attributes/DaemonSet.md",
     "images/daemonset.png",
-    "Kubernetes/Kubernetes.Attributes/Deployments.md",
-    "Kubernetes/Scheduling/Taints and Tolerations.md",
-    "Kubernetes/Scheduling/Labels & Selectors.md",
-    "Kubernetes/Kubernetes.Architecture/kube-proxy.md",
-    "Kubernetes/Kubernetes.Attributes/Namespaces.md",
     "images/scheduler.png",
-    "Kubernetes/Imperative and declarative.md",
-    "Kubernetes/PDF/Kubernetes+-CKA-+0200+-+Scheduling.pdf",
     "images/imperdeclar.png",
-    "Kubernetes/Kubernetes.Attributes/Service.Types/NodePort Service.md",
     "images/namespaces.png",
-    "Kubernetes/Kubernetes.Attributes/Service.Types/Load Balancer Service.md",
-    "images/nodeport.png",
-    "images/ClusterIP-Service.png",
-    "images/load_balancer.png",
-    "images/services.gif",
-    "images/etcd.png"
+    "images/nodeport.png"
   ]
 }

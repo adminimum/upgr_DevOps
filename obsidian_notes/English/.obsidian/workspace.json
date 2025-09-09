@@ -8,77 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9731ee186b08a69e",
+            "id": "1df12c28aebda50f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English.md",
+                "file": "Vocabulary/09.2025/08-15.09.2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "English"
-            }
-          },
-          {
-            "id": "c0c20ee67a343396",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/Vocabulary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vocabulary"
-            }
-          },
-          {
-            "id": "a9700b9ceb6f4939",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Texts Remember/Texts Remember.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Texts Remember"
-            }
-          },
-          {
-            "id": "5d501333faae7e9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/Vocabulary.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Vocabulary"
-            }
-          },
-          {
-            "id": "a08862e9e20278aa",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/09.2025/01-07.09.2025.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01-07.09.2025"
+              "title": "08-15.09.2025"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -135,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "00f39b23a7979653",
@@ -151,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/09.2025/01-07.09.2025.md",
+                "file": "Vocabulary/09.2025/08-15.09.2025.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -161,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 01-07.09.2025"
+              "title": "Backlinks for 08-15.09.2025"
             }
           },
           {
@@ -170,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/09.2025/01-07.09.2025.md",
+                "file": "Vocabulary/09.2025/08-15.09.2025.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 01-07.09.2025"
+              "title": "Outgoing links from 08-15.09.2025"
             }
           },
           {
@@ -199,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/09.2025/01-07.09.2025.md",
+                "file": "Vocabulary/09.2025/08-15.09.2025.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 01-07.09.2025"
+              "title": "Outline of 08-15.09.2025"
             }
           }
         ]
@@ -226,21 +169,32 @@
       "bases:Create new base": false
     }
   },
-  "active": "a08862e9e20278aa",
+  "active": "1df12c28aebda50f",
   "lastOpenFiles": [
-    "images/mock.jpg",
-    "().md",
+    "images/filth.webp",
+    "images/filth.html",
+    "images/Unconfirmed 186598.crdownload",
+    "images/designate.webp",
+    "images/behalf.jpeg",
+    "images/appall.webp",
+    "images/bitter.jpg",
+    "Vocabulary/09.2025/08-15.09.2025.md",
     "Vocabulary/09.2025/01-07.09.2025.md",
-    "images/addiction.jpg",
-    "images/dizzy.webp",
     "Vocabulary/Vocabulary.md",
-    "images/cocky.jpg",
-    "images/Confuse.jpeg",
-    "Vocabulary/09.2025",
-    "English.md",
-    "images/Curriculum-Roadmap-English.jpg",
-    "images",
+    "images/utter.jpg",
+    "images/mope.jpg",
+    "images/flex.jpg",
+    "images/shame.jpg",
+    "images/pervert.jpg",
+    "images/eloquent.jpg",
+    "().md",
+    "Grammar/Work Book.md",
+    "Books/4. Cambridge English Vocabulary in Use (Advanced) 3rd Edition.pdf",
+    "Books/Grammar in Use - Pre-intermediate ( PDFDrive ).pdf",
     "Grammar/Grammar.md",
+    "English.md",
+    "Vocabulary/09.2025",
+    "images",
     "Texts Remember/Texts Remember.md"
   ]
 }

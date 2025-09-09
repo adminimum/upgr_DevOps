@@ -69,6 +69,8 @@
 - [[Imperative and declarative]]
 - [[Scheduling]]
 - [[Monitoring and Logging]]
+- [[Application LifeCycle Management]]
+- [[Cluster Maintenance]]
   
 
 ## 🔗 Related Topics

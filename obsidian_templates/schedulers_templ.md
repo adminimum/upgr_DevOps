@@ -6,6 +6,11 @@
 - 
 ## ✅ Advantages
 - 
+## 🌩️ My thoughts
+-
+## 🛠️ Commands
+```bash
+```
 ## 📋 YAML
 ```YAML
 ```
