@@ -1,0 +1,10 @@
+Create an web app with db and integrate with ai side consutant.
+Set up best practice kube cluster, test, prod
+Set up github actions and store cluster configuration there.
+Set up LDAP server.
+Set up Auth in kubernetes by the LDAP users.
+Set up dashboard of cluster.
+Set up monitoring and alerting.
+Set up rundek job system{task for creating new route for app /help, or /admin}
+Set up external loadbalancer
+Push app to kubernetes
