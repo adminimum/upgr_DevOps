@@ -6,6 +6,7 @@
 - How to implement:  
 - Simple analogy:  
 - Problem it solves:
+- Attributes:
 - My thoughts:   
 
 ## 🔗 Related Topics

@@ -4,11 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "2784cb512595e559",
+        "id": "b2ec67b349c1b398",
         "type": "tabs",
         "children": [
           {
-            "id": "1df12c28aebda50f",
+            "id": "f6cc40f911f4879a",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          },
+          {
+            "id": "4a1c8fc3d66cdb8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,8 +30,37 @@
               "icon": "lucide-file",
               "title": "08-15.09.2025"
             }
+          },
+          {
+            "id": "0550766116277097",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/09.2025/08-15.09.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "08-15.09.2025"
+            }
+          },
+          {
+            "id": "d0f21bb42922ef58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/09.2025/16-23.09.2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16-23.09.2025"
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -53,7 +92,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#seize",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -169,31 +208,33 @@
       "bases:Create new base": false
     }
   },
-  "active": "1df12c28aebda50f",
+  "active": "d0f21bb42922ef58",
   "lastOpenFiles": [
-    "images/abhor.webp",
-    "images/alter.jpg",
-    "images/acute.jpg",
-    "images/acquire.jpg",
-    "images/engage.webp",
+    "images/foreshow.jpg",
+    "images/foretell.jpg",
+    "images/highlight.jpeg",
+    "images/beneath.jpeg",
+    "images/bury.jpg",
+    "images/merely.gif",
+    "images/deliberate.jpeg",
+    "images/sloppy.png",
+    "images/decent.webp",
+    "images/relief.jpeg",
+    "Vocabulary/09.2025/08-15.09.2025.md",
+    "Vocabulary/09.2025/16-23.09.2025.md",
+    "Vocabulary/Vocabulary.md",
+    "images/prelims.svg",
+    "Vocabulary/09.2025/01-07.09.2025.md",
+    "new_words_list.txt",
+    "().md",
+    "English.md",
     "squidward",
-    "images/intimidate.jpg",
-    "images/enforce.webp",
-    "images/gory.jpg",
-    "images/superstitions.jpg",
-    "images/arouse.webp",
-    "images/filth.webp",
     "images/filth.html",
     "images/Unconfirmed 186598.crdownload",
-    "Vocabulary/09.2025/08-15.09.2025.md",
-    "Vocabulary/09.2025/01-07.09.2025.md",
-    "Vocabulary/Vocabulary.md",
-    "().md",
     "Grammar/Work Book.md",
     "Books/4. Cambridge English Vocabulary in Use (Advanced) 3rd Edition.pdf",
     "Books/Grammar in Use - Pre-intermediate ( PDFDrive ).pdf",
     "Grammar/Grammar.md",
-    "English.md",
     "Vocabulary/09.2025",
     "images",
     "Texts Remember/Texts Remember.md"

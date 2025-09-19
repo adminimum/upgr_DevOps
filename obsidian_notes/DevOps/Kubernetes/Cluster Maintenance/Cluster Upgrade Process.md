@@ -38,6 +38,8 @@
 cat /etc/apt/sources.list
 
 # Create correct repo for updating kubeadm
+curl -fsSL https://pkgs.k8s.io/core:/stable:/v1._ver_/deb/Release.key | sudo gpg --dearmor -o /usr/share/keyrings/kubernetes-archive-keyring.gpg
+echo "deb [signed-by=/usr/share/keyrings/kubernetes-archive-keyring.gpg] https://pkgs.k8s.io/core:/stable:/v1._ver_/deb/ /" | sudo tee /etc/apt/sources.list.d/kubernetes.list
 
 # Upgrade kubeadm on master
 apt-cache madison kubeadm

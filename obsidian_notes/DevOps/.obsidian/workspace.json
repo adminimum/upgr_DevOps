@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "98a5aeb9bfe08da0",
+        "id": "487cf96bbeb65f69",
         "type": "tabs",
         "children": [
           {
-            "id": "4fe67c65f40be915",
+            "id": "6787ce6184bc982a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Security/Security Main Page.md",
+                "file": "Kubernetes/Cluster Maintenance/Cluster Upgrade Process.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security Main Page"
-            }
-          },
-          {
-            "id": "13a15ee3b65bc866",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Security/TLS in kubernetes.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "TLS in kubernetes"
+              "title": "Cluster Upgrade Process"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -184,11 +169,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "cf88b754896e4ec9",
+  "active": "6787ce6184bc982a",
   "lastOpenFiles": [
     "Kubernetes/Security/Security Main Page.md",
+    "TLS/TLS Basics.md",
     "Kubernetes/Security/TLS in kubernetes.md",
     "Kubernetes/Security/Authentication.md",
+    "images/seize.jpg",
+    "images/seize.jpeg",
+    "Kubernetes/Kubernetes.Attributes/Service.Types/ClusterIP Service.md",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes/Cluster Maintenance/Cluster Maintenance.md",
+    "Kubernetes/Cluster Maintenance/OS Upgrade.md",
+    "Kubernetes/Cluster Maintenance/Cluster Upgrade Process.md",
+    "Kubernetes/Cluster Maintenance/Backup and Restore.md",
+    "images/tlskube.jpg",
+    "images/tls-dia.png",
+    "images/certif.png",
+    "TLS",
     "images/security.jpg",
     "Kubernetes/Applicaion Lifecycle Management/Autoscaling in Kubernetes.md",
     "Kubernetes/Applicaion Lifecycle Management/Init Containers.md",
@@ -206,31 +204,17 @@
     "images/authentic.png",
     "LDAP",
     "Kubernetes/PDF/Kubernetes+-CKA-+0600+-+Security.pdf",
-    "Kubernetes/Cluster Maintenance/Backup and Restore.md",
     "Kubernetes/Security",
-    "Kubernetes/Cluster Maintenance/Cluster Maintenance.md",
-    "Kubernetes/Cluster Maintenance/Cluster Upgrade Process.md",
-    "Kubernetes/Cluster Maintenance/OS Upgrade.md",
     "Bash/expect.md",
     "images/clusupgr.jpg",
-    "Kubernetes/Kubernetes.md",
     "Kubernetes/PDF/Kubernetes-CKA-0500-Cluster+Maintenance-v1.2.pdf",
     "Kubernetes/Applicaion Lifecycle Management/In-place Resize of Pod.md",
     "Kubernetes/Cluster Maintenance",
     "Kubernetes/Scheduling/Admission Controllers.md",
     "images/autoscaling.gif",
     "Kubernetes/Monitoring/Monitoring and Logging.md",
-    "images/rollback.jpg",
     "Kubernetes/PDF/Kubernetes+-CKA-+0400+-+Application+Lifecycle+Management.pdf",
-    "images/ALM.png",
-    "Kubernetes/Monitoring/Managing Application Logs.md",
     "Kubernetes/Applicaion Lifecycle Management",
-    "English/Books/Grammar in Use - Pre-intermediate ( PDFDrive ).pdf",
-    "English/Books",
-    "Kubernetes/Monitoring/Monitor Cluster Components.md",
-    "Kubernetes/Scheduling/Scheduling.md",
-    "images/staticpod.png",
-    "images/daemonset.png",
-    "images/scheduler.png"
+    "English/Books/Grammar in Use - Pre-intermediate ( PDFDrive ).pdf"
   ]
 }
