@@ -1,7 +1,24 @@
+main host -> /app, /jenkins, /rundeck, /cluster{dashboard}, /metrics, /dev_app, /runner
+Main Host is nginx loadbalancer
+Https with certs
+
+
+vms: 3 cluster, rundeck , jenkins,runner, db for app, ldap 
+
+Приложение;
+AI-обработка бизнес-данных (Data copilots)
+Малый/средний бизнес не хочет BI-системы, но хочет «задать вопрос в чат и получить отчёт из Postgres».
+Приложение = «чат с базой данных, метриками, инкамами и откамами» (Postgres как источник → AI объясняет результат).
+Рынок растёт, конкурентов много, но можно попасть в нишу (например, DevOps-метрики, финансы стартапов).
+У тебя личный кобинет, настройки интеграций, И чат с АИ по обработке данных из бд. 
+
+
+
 Create an web app with db and integrate with ai side consutant.
-Set up best practice kube cluster, test, prod
+Set up best practice kube cluster, dev, prod
 Set up github actions and store cluster configuration there.
 Set up LDAP server.
+Create runner for github actions
 Set up Auth in kubernetes by the LDAP users.
 Set up dashboard of cluster.
 Set up monitoring and alerting.

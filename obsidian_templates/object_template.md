@@ -18,7 +18,7 @@
 command --option value
 ```
 
-## 🗒️ YAML format example with explaining
+## 🗒️ YAML format example with explaining if needed
 ```YAML
 
 ```
