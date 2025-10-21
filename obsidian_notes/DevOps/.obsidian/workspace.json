@@ -4,24 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "c6a6b9de5781f261",
+        "id": "5eca9045300920d5",
         "type": "tabs",
         "children": [
           {
-            "id": "8a0e9a92c9d920c7",
+            "id": "e8d3af19925dcfe4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Security/certificates api.md",
+                "file": "Kubernetes/Security/Security context.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "certificates api"
+              "title": "Security context"
+            }
+          },
+          {
+            "id": "a976ca2a9ca845a3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Security/Network Policies.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Network Policies"
+            }
+          },
+          {
+            "id": "5f750143c225b644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Security/CRD Custom Resource Definition.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CRD Custom Resource Definition"
+            }
+          },
+          {
+            "id": "9d3d9b4964930a55",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Security/custom controllers.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "custom controllers"
+            }
+          },
+          {
+            "id": "698506c33a2ab347",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Security/Cluster Roles.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Cluster Roles"
+            }
+          },
+          {
+            "id": "d165b4736f564c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Storage/Storage Main Page.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Storage Main Page"
+            }
+          },
+          {
+            "id": "1101a9a1d03e82bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes/Storage/Container Storage Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Container Storage Interface"
             }
           }
-        ]
+        ],
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -169,41 +254,45 @@
       "bases:Create new base": false
     }
   },
-  "active": "8a0e9a92c9d920c7",
+  "active": "1101a9a1d03e82bd",
   "lastOpenFiles": [
+    "Kubernetes/Storage/Storage Main Page.md",
+    "Kubernetes/Storage/Container Storage Interface.md",
+    "Kubernetes/PDF/Kubernetes+-CKA-+0700+-+Storage.pdf",
+    "Kubernetes/Kubernetes.md",
+    "Kubernetes/Imperative and declarative.md",
+    "images/storage.png",
+    "Kubernetes/Security/Cluster Roles.md",
+    "Storage/Untitled",
+    "Kubernetes/Storage",
+    "Kubernetes/Security/Role Based Access Control.md",
+    "Kubernetes/Security/Authorization.md",
+    "Kubernetes/Security/API groups.md",
+    "Kubernetes/Security/KubeConfig.md",
+    "Kubernetes/Security/certificates api.md",
     "Kubernetes/Security/View all the certificates in K8S cluster.md",
     "Kubernetes/Security/TLS in Kubernetes - Certificate creation.md",
-    "Kubernetes/Security/certificates api.md",
-    "Kubernetes/Security/Security Main Page.md",
-    "Kubernetes/Monitoring/Monitor Cluster Components.md",
     "Kubernetes/Security/TLS in kubernetes.md",
     "Kubernetes/Security/Authentication.md",
+    "Kubernetes/Security/Security Main Page.md",
+    "Kubernetes/Security/operator framework.md",
+    "Kubernetes/Security/custom controllers.md",
+    "Kubernetes/Security/Service Accounts.md",
+    "Kubernetes/Security/Security context.md",
+    "Kubernetes/Security/CRD Custom Resource Definition.md",
+    "Kubernetes/Security/Network Policies.md",
+    "Kubernetes/Security/image security.md",
+    "Kubernetes/Monitoring/Monitor Cluster Components.md",
     "Bash/expect.md",
-    "Kubernetes/Imperative and declarative.md",
     "Kubernetes/Cluster Maintenance/Cluster Upgrade Process.md",
     "TLS/TLS Basics.md",
     "images/seize.jpg",
     "images/seize.jpeg",
-    "Kubernetes/Kubernetes.Attributes/Service.Types/ClusterIP Service.md",
-    "Kubernetes/Kubernetes.md",
-    "Kubernetes/Cluster Maintenance/Cluster Maintenance.md",
-    "Kubernetes/Cluster Maintenance/OS Upgrade.md",
-    "Kubernetes/Cluster Maintenance/Backup and Restore.md",
     "images/tlskube.jpg",
     "images/tls-dia.png",
     "images/certif.png",
     "TLS",
     "images/security.jpg",
-    "Kubernetes/Applicaion Lifecycle Management/Autoscaling in Kubernetes.md",
-    "Kubernetes/Applicaion Lifecycle Management/Init Containers.md",
-    "Kubernetes/Applicaion Lifecycle Management/Multi Container Pods.md",
-    "Kubernetes/Applicaion Lifecycle Management/Encrypting Secret data at Rest.md",
-    "Kubernetes/Applicaion Lifecycle Management/Secret Store CSI Driver.md",
-    "Kubernetes/Applicaion Lifecycle Management/Secrets.md",
-    "Kubernetes/Applicaion Lifecycle Management/ConfigMaps in Kubernetes.md",
-    "Kubernetes/Applicaion Lifecycle Management/Config Env Vars in Applications.md",
-    "Kubernetes/Applicaion Lifecycle Management/Commands and Arguments in Docker or Kubernetes.md",
-    "Kubernetes/Applicaion Lifecycle Management/Rolling Updates And Rollbacks.md",
     "images/1*a.gif",
     "images/security",
     "images/authentic.png",
@@ -212,10 +301,6 @@
     "Kubernetes/Security",
     "images/clusupgr.jpg",
     "Kubernetes/PDF/Kubernetes-CKA-0500-Cluster+Maintenance-v1.2.pdf",
-    "Kubernetes/Cluster Maintenance",
-    "images/autoscaling.gif",
-    "Kubernetes/PDF/Kubernetes+-CKA-+0400+-+Application+Lifecycle+Management.pdf",
-    "Kubernetes/Applicaion Lifecycle Management",
-    "English/Books/Grammar in Use - Pre-intermediate ( PDFDrive ).pdf"
+    "Kubernetes/Cluster Maintenance"
   ]
 }

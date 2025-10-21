@@ -1,8 +1,7 @@
-# {{title}}
-
 ## 📌 Definition
 - What it is:  
-- How useful it is:  
+- How useful it is:
+- Main details:
 - How to implement:  
 - Simple analogy:  
 - Problem it solves:

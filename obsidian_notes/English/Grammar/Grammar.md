@@ -143,3 +143,83 @@ Common Grammar Mistakes and Confusing Words
 29. Unit 109 – Word order 1 (verb + object; place and time)
     
 30. Unit 113 – although / though / even though / in spite of / despite
+
+
+### 🩵 **1️⃣ Основы точности и структуры (foundation & verbs)**
+
+1. **21 — Linking verbs: be, appear, seem, become, get**  
+    _(основа описаний, мнений, характеров, чувств — часто в speaking)_
+    
+2. **23 — Forming passive sentences 2 (verb + -ing or to-infinitive)**  
+    _(пассив нужен во всех письмах, formal writing, и B2 Use of English)_
+    
+3. **30 — Verb + -ing forms and infinitives 1**  
+    _(контроль after verbs: enjoy doing / want to do — B2 must-have)_
+    
+4. **31 — Verb + -ing forms and infinitives 2**  
+    _(more complex verbs — advise sb to do, stop doing — всегда проверяется)_
+    
+5. **28 — Verbs, objects and complements**  
+    _(связка “make me feel”, “consider it important” — advanced B2 pattern)_
+    
+
+---
+
+### 💬 **2️⃣ Reported Speech (must-have для B2)**
+
+6. **32 — Reporting people’s words and thoughts**  
+    _(основы Reported Speech, структура change of tenses)_
+    
+7. **33 — Reporting statements: that-clauses**  
+    _(типичный Cambridge format: “He said that…” “I told her that…”)_
+    
+8. **34 — Reporting verbs + wh-clauses**  
+    _(when, what, where, who — отличает B2 от B1)_
+    
+9. **37 — Modal verbs in reporting**  
+    _(He might have said / She must have told me — advanced usage)_
+    
+
+---
+
+### 📦 **3️⃣ Articles, Quantifiers, and Nouns (типичные ловушки)**
+
+10. **45 — A / an, the, and zero article 1**  
+    _(Cambridge всегда проверяет definite/indefinite article choice)_
+    
+11. **47 — A / an, the, and zero article 3**  
+    _(исключения и fixed phrases — для writing clarity)_
+    
+12. **50 — Much (of), many (of), a lot (of), lots (of)**  
+    _(типичная ошибка B2 — использование much/many в утверждениях)_
+    
+13. **49 — No, none (of) and not any**  
+    _(различие этих форм часто появляется в Use of English Part 2)_
+    
+
+---
+
+### 🧩 **4️⃣ Clauses & Sentence Linking (B2 синтаксис)**
+
+14. **53 — Relative pronouns (who, which, that)**  
+    _(чрезвычайно частая тема в writing & speaking: “the person who…”)_
+    
+15. **70 — Adjectives + to-infinitive / -ing / that-clause / wh-clause**  
+    _(формирует естественные структуры: “I’m happy to see you” / “It’s important that…”)_
+    
+16. **79 — Adverbial clauses of time**  
+    _(when / while / before / until — везде: essays, letters, speaking)_
+    
+17. **82 — Contrasts: although, even though, while, whereas**  
+    _(логические связки для B2 writing — ключ к cohesion)_
+    
+
+---
+
+### ⚙️ **5️⃣ Precision & Natural English (fine-tuning)**
+
+18. **67 — Gradable and non-gradable adjectives 1**  
+    _(absolutely amazing / very good — advanced lexical control)_
+    
+19. **77 — Degree adverbs and focus adverbs**  
+    _(really / quite / absolutely / only / even — для B2 sounding natural)_

@@ -1,3 +1,4 @@
+# part1 
 cram - study in a very concentrated way for a short time
 past papers - exam papers from previous years
 learn (off) by heart - forever in memory
@@ -58,3 +59,103 @@ pay tribute
 closed the meeting
 solitary figure
 sole survivor
+
+mouldy - zaplesneveliy
+go rotten - sgnil 
+go bust - lost money
+The ideas flowed
+in floods of tears
+People poured out
+People trickled into
+stream of traffic
+violence flares up
+
+|Verb / Adjective|Common Collocations|Meaning|
+|---|---|---|
+|**lighten**|the mood / atmosphere|make less serious|
+|**darken**|face / expression|become angry / serious|
+|**shine**|eyes / sun / stars|reflect light / show emotion|
+|**light up**|eyes / face|suddenly look happy|
+|**sunny**|smile / personality|cheerful, positive|
+|**dark**|days / mood|sad or difficult times|
+
+scorching hot
+weather deteriorates [opposite: improves ] 
+thick/dense fog 
+patches of fog/mist
+a blanket of fog [literary] 
+fog/mist comes down
+The wind was whistling
+travel arrangements
+
+---
+# Part2
+
+gentle landscape - a landscape with nothing extreme or threatening about 
+caught a glimpse of - saw for a moment
+rounded a bend - turned a corner
+steep slope
+quaint old buildings- attractive because of being unusual and especially old-fashioned
+pavement cafés
+imposing buildings
+strewn with litter
+sprawling city - spread over a large area (slightly negative
+exhaust fumes - car outcomes
+incessant roar - 
+shanty towns
+
+
+complement(addition) != compliment
+selfish streak
+an outgoing personality
+razor-sharp mind
+snap decisions
+bear a grudge
+play a joke
+take a joke
+swallow your pride
+throw a tantrum - behaved in a very uncontrolled manner
+come to terms with - accept something psychologically
+droopy moustache - long and hanging down heavily
+slender waist - attractively slim
+immaculately groomed - her appearance is always tidy and looked after with great care
+coarse hair - solid hair
+bushy eyebrows - very thick
+jet-black hair - угольно-черные волосы
+dishevelled hair - untidy hair
+He bears a striking resemblance to his father. [ looks remarkably like]
+
+boast  - hvastatsa
+chorus - hor
+grumble - vorchat
+nuclear family
+Distant relatives
+immediate family
+late husband
+estranged [formal] husband
+deprived home
+start a family
+the baby is due to
+apply for custody of
+set up home
+strike up a friendship = start a friendship
+form/develop a friendship
+cement/spoil a friendship
+mutual friends
+keep in contact
+fell madly in love with
+make a commitment
+accepted his proposal
+having an affair
+
+Short-let  accommodation - short time rent of a flat
+fully-fitted kitchen
+four-storey house
+cosy study - convinient room for working
+basement flat - underneath room
+dilapidated building- in a bad condition
+draughty hall - wind is going in this hall
+chilly corridor - cold corridor
+feel homesick
+make yourself at home
+take out a big mortgage
