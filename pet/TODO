@@ -3,7 +3,7 @@ Main Host is nginx loadbalancer
 Https with certs
 
 
-vms: 3 cluster, rundeck , jenkins,runner, db for app, ldap 
+vms: 3 cluster, rundeck , jenkins,runner, db for app, ldap, metrics server
 
 Приложение;
 AI-обработка бизнес-данных (Data copilots)

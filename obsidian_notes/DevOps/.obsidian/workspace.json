@@ -4,109 +4,51 @@
     "type": "split",
     "children": [
       {
-        "id": "5eca9045300920d5",
+        "id": "6936e4f600c97761",
         "type": "tabs",
         "children": [
           {
-            "id": "e8d3af19925dcfe4",
+            "id": "0101cc4785f9ba14",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Security/Security context.md",
+                "file": "Kubernetes/Storage/persistent volume claims.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Security context"
+              "title": "persistent volume claims"
             }
           },
           {
-            "id": "a976ca2a9ca845a3",
+            "id": "93c35e185cd61cd0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Security/Network Policies.md",
+                "file": "Kubernetes/networking/Main Networking.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Network Policies"
+              "title": "Main Networking"
             }
           },
           {
-            "id": "5f750143c225b644",
+            "id": "08ccb479c42a6975",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Kubernetes/Security/CRD Custom Resource Definition.md",
-                "mode": "source",
-                "source": false
+                "file": "Kubernetes/PDF/Kubernetes+-CKA-+0800+-+Networking-v1.2.pdf"
               },
-              "icon": "lucide-file",
-              "title": "CRD Custom Resource Definition"
-            }
-          },
-          {
-            "id": "9d3d9b4964930a55",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Security/custom controllers.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "custom controllers"
-            }
-          },
-          {
-            "id": "698506c33a2ab347",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Security/Cluster Roles.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Cluster Roles"
-            }
-          },
-          {
-            "id": "d165b4736f564c3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Storage/Storage Main Page.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Storage Main Page"
-            }
-          },
-          {
-            "id": "1101a9a1d03e82bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Kubernetes/Storage/Container Storage Interface.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Container Storage Interface"
+              "icon": "lucide-file-text",
+              "title": "Kubernetes+-CKA-+0800+-+Networking-v1.2"
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -254,12 +196,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "1101a9a1d03e82bd",
+  "active": "08ccb479c42a6975",
   "lastOpenFiles": [
-    "Kubernetes/Storage/Storage Main Page.md",
-    "Kubernetes/Storage/Container Storage Interface.md",
-    "Kubernetes/PDF/Kubernetes+-CKA-+0700+-+Storage.pdf",
+    "Kubernetes/networking/Main Networking.md",
+    "images/networking.jpg",
+    "Kubernetes/PDF/Kubernetes+-CKA-+0800+-+Networking-v1.2.pdf",
+    "Kubernetes/PDF/Ingress.pdf",
     "Kubernetes/Kubernetes.md",
+    "Kubernetes/Storage/Storage Main Page.md",
+    "Kubernetes/networking",
+    "Kubernetes/Scheduling/Node Selectors.md",
+    "Kubernetes/Scheduling/Scheduling.md",
+    "Kubernetes/Kubernetes.Architecture/Cluster Architecture.md",
+    "Kubernetes/Storage/Volumes.md",
+    "Kubernetes/Storage/Container Storage Interface.md",
+    "Kubernetes/Scheduling/Node Affinity.md",
+    "Kubernetes/Storage/storage class.md",
+    "Kubernetes/Storage/persistent volume claims.md",
+    "Kubernetes/Storage/persistant volumes.md",
+    "images/csi.png",
+    "Kubernetes/CRI Container runtime interface.md",
+    "Kubernetes/PDF/Kubernetes+-CKA-+0700+-+Storage.pdf",
     "Kubernetes/Imperative and declarative.md",
     "images/storage.png",
     "Kubernetes/Security/Cluster Roles.md",
@@ -275,17 +232,6 @@
     "Kubernetes/Security/TLS in kubernetes.md",
     "Kubernetes/Security/Authentication.md",
     "Kubernetes/Security/Security Main Page.md",
-    "Kubernetes/Security/operator framework.md",
-    "Kubernetes/Security/custom controllers.md",
-    "Kubernetes/Security/Service Accounts.md",
-    "Kubernetes/Security/Security context.md",
-    "Kubernetes/Security/CRD Custom Resource Definition.md",
-    "Kubernetes/Security/Network Policies.md",
-    "Kubernetes/Security/image security.md",
-    "Kubernetes/Monitoring/Monitor Cluster Components.md",
-    "Bash/expect.md",
-    "Kubernetes/Cluster Maintenance/Cluster Upgrade Process.md",
-    "TLS/TLS Basics.md",
     "images/seize.jpg",
     "images/seize.jpeg",
     "images/tlskube.jpg",
@@ -295,12 +241,7 @@
     "images/security.jpg",
     "images/1*a.gif",
     "images/security",
-    "images/authentic.png",
     "LDAP",
-    "Kubernetes/PDF/Kubernetes+-CKA-+0600+-+Security.pdf",
-    "Kubernetes/Security",
-    "images/clusupgr.jpg",
-    "Kubernetes/PDF/Kubernetes-CKA-0500-Cluster+Maintenance-v1.2.pdf",
-    "Kubernetes/Cluster Maintenance"
+    "Kubernetes/PDF/Kubernetes+-CKA-+0600+-+Security.pdf"
   ]
 }

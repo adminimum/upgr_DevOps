@@ -73,11 +73,14 @@
 - [[Cluster Maintenance]]
 - [[Security Main Page]]
 - [[Storage Main Page]]
+- [[Main Networking]]
   
 
-## 🔗 Related Topics
-
-- [[]]
+## 🔗 SideLine topics
+Interfaces:
+- CRI - container runtime interface(containerd, Docker, cri-o)
+- CNI - Container network interface(Network Policies)
+- CSI - container Storage Interface ( Google, AWS...)
 
   
 

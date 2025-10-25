@@ -13,7 +13,7 @@ gcloud compute firewall-rules create pet1-allow-internal \
   --source-ranges=10.240.0.0/24
 
 gcloud compute firewall-rules create pet1-allow-external \
-  --network=pet1-net --allow tcp:22,tcp:6443,tcp:80,tcp:443,tcp:8080,tcp:8443,icmp \
+  --network=pet1-net --allow tcp:22,tcp:6443,tcp:80,tcp:443,tcp:8080,tcp:8443,tcp:4180,icmp \
   --source-ranges=0.0.0.0/0
 
 # install nginx, replace nginx.conf with required one, then start script for creating ssl certs, use redirects as a variables of private ips

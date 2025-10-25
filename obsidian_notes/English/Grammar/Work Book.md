@@ -159,3 +159,43 @@ chilly corridor - cold corridor
 feel homesick
 make yourself at home
 take out a big mortgage
+
+junk food
+nourishing meal
+fresh produce
+ready meals
+food additives
+GM foods
+perishable food
+substantial meal
+slap-up meal - unusually large
+gourmet  meal
+hearty breakfast
+male lead
+cameo role
+box-office hit
+be engrossed/absorbed in a book
+flicked/skimmed through the book
+
+blast out from
+catchy tunes
+adoring fans
+Haunting melodies
+up-tempo
+strumming a guitar
+taken up the guitar
+gets narrowly defeated/beaten
+stage/ round of the competition
+world record holder
+come up against fierce/intense competition
+tackle an opponent
+
+vigorous exercise
+stick to your programme
+keep fit
+terminally ill
+excruciating/unbearable pain
+trivial/minor ailments
+dull ache
+splitting headache
+refine your search

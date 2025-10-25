@@ -11,3 +11,8 @@
 ## 🔗 Related Topics
 
 - [[Container Storage Interface]]
+- [[Volumes]]
+- [[persistant volumes]]
+- [[persistent volume claims]]
+- [[storage class]]
+- 
