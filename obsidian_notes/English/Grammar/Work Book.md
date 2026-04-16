@@ -199,3 +199,16 @@ trivial/minor ailments
 dull ache
 splitting headache
 refine your search
+
+
+# Part3
+
+a steady job
+to supervise work
+to embark on a career - to start a career
+a career takes off - comes successfully
+integral part
+ fielding telephone calls
+ dead-end job
+glittering career
+lucrative job

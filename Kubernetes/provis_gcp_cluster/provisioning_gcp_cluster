@@ -16,6 +16,14 @@ gcloud compute firewall-rules create pet1-allow-external \
   --network=pet1-net --allow tcp:22,tcp:6443,tcp:80,tcp:443,tcp:8080,tcp:8443,tcp:4180,icmp \
   --source-ranges=0.0.0.0/0
 
+  gcloud compute firewall-rules create allow-calico-ipip \
+  --network=pet1-net \
+  --direction=INGRESS \
+  --priority=1000 \
+  --action=ALLOW \
+  --rules=ipip \
+  --source-ranges=0.0.0.0/0
+
 # install nginx, replace nginx.conf with required one, then start script for creating ssl certs, use redirects as a variables of private ips
 gcloud compute instances create nginx-balancer \
   --zone=europe-west4-a \
@@ -29,20 +37,6 @@ gcloud compute instances create nginx-balancer \
   --tags=balancer \
   --private-network-ip=10.240.0.80
 
-#install docker and docker-compose,copy ssl certs to the server, put them ./certs, then run docker-compose.yaml, check hostname inside configuration, should be installed dynamicly
-gcloud compute instances create auth-server \
-  --zone=europe-west4-a \
-  --machine-type=e2-small \
-  --subnet=pet1-subnet \
-  --network=pet1-net \
-  --image-family=ubuntu-2204-lts \
-  --image-project=ubuntu-os-cloud \
-  --boot-disk-size=15GB \
-  --boot-disk-type=pd-standard \
-  --tags=auth \
-  --private-network-ip=10.240.0.88
-
-
 gcloud compute instances create k8s-master \
   --zone=europe-west4-a \
   --machine-type=e2-medium \
@@ -50,7 +44,7 @@ gcloud compute instances create k8s-master \
   --network=pet1-net \
   --image-family=ubuntu-2204-lts \
   --image-project=ubuntu-os-cloud \
-  --boot-disk-size=30GB \
+  --boot-disk-size=35GB \
   --boot-disk-type=pd-standard \
   --tags=k8s \
   --private-network-ip=10.240.0.10

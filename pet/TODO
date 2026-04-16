@@ -1,9 +1,9 @@
 main host -> /app, /jenkins, /rundeck, /cluster{dashboard}, /metrics, /dev_app, /runner
-Main Host is nginx loadbalancer
+Main Host is nginx loadbalancer with simple https and auth
 Https with certs
 
 
-vms: 3 cluster, rundeck , jenkins,runner, db for app, ldap, metrics server
+vms: 3 cluster, rundeck , jenkins,runner, db for app, metrics server
 
 Приложение;
 AI-обработка бизнес-данных (Data copilots)
