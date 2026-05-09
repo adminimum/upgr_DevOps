@@ -77,6 +77,12 @@
 
 ---
 
+## 📂 Notes
+
+- [[The_Attack]] — cluster attack vectors and the 4Cs model
+
+---
+
 ## 🔗 Official Resources
 
 - [CKS Exam Curriculum](https://github.com/cncf/curriculum)
