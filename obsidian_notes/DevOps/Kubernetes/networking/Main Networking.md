@@ -71,4 +71,11 @@ kubectl apply -f policy.yaml
 ---
 
 ## 🔗 Related Topics
-- [[]]
+
+- [[Ingress]]
+- [[Gateway API]]
+- [[Network Policies]]
+- [[Services]]
+- [[ClusterIP Service]]
+- [[NodePort Service]]
+- [[Load Balancer Service]]

@@ -64,6 +64,8 @@
 
 ## 📂 Subtopics
 
+- [[Architecture]] — Control plane & node components
+- [[Workloads]] — Pods, Deployments, Services, DaemonSets
 - [[Cluster Architecture]]
 - [[Kubernetes Objects]]
 - [[Imperative and declarative]]
@@ -74,6 +76,11 @@
 - [[Security Main Page]]
 - [[Storage Main Page]]
 - [[Main Networking]]
+- [[Ingress]]
+- [[Gateway API]]
+- [[Helm]]
+- [[Kustomize]]
+- [[Troubleshooting]]
   
 
 ## 🔗 SideLine topics

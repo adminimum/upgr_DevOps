@@ -15,4 +15,3 @@
 - [[persistant volumes]]
 - [[persistent volume claims]]
 - [[storage class]]
-- 

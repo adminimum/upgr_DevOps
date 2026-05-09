@@ -2,3 +2,24 @@
     background-color: yellow !important;
     font-size: 18px !important;
 }
+
+/* Graph view — gruvbox-friendly colors */
+.graph-view.color-line {
+    color: rgba(204, 36, 29, 0.75);   /* red — inter-topic connections */
+}
+
+.graph-view.color-arrow {
+    color: rgba(250, 189, 47, 0.9);   /* gruvbox yellow */
+}
+
+.graph-view.color-fill {
+    color: #1a3a5c;                   /* dark blue */
+}
+
+.graph-view.color-fill-focused {
+    color: rgba(251, 73, 52, 1);      /* gruvbox red — active node pops */
+}
+
+.graph-view.color-fill-unresolved {
+    color: rgba(168, 153, 132, 0.5);  /* gruvbox gray — unresolved fades back */
+}
